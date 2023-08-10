@@ -10,7 +10,7 @@
 <p align='left'>
   Find and connect with me on LinkedIn.  -->  
   <a href="https://www.linkedin.com/in/j-andressanchez/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="20px" />
   </a>&nbsp;&nbsp;
   
 </p>
