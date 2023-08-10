@@ -19,7 +19,7 @@
 <h3 align='center'>
   👨‍💻  Some Technologies I use  👨‍💻 <br><br>
   <img src="https://camo.githubusercontent.com/0fe56997348f34dbe58f09ff806ce63d8633ad7c80a45c0b51dee570d743bb16/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f437563756d6265722d3233443936433f7374796c653d666f722d7468652d6261646765266c6f676f3d637563756d626572266c6f676f436f6c6f723d7768697465" height="20px" style="pointer-events:none;"/> 
-  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" height="20px" style="pointer-events:none;"/> 
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=green" height="20px" style="pointer-events:none;"/> 
   <img src="https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" height="20px" style="pointer-events:none;"/> 
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white" height="20px" style="pointer-events:none;"/> 
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" height="20px" style="pointer-events:none;"/> 
