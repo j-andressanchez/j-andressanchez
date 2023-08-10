@@ -7,8 +7,8 @@
   I'm currently developing solutions focused on supporting testing from DevOps.
 </p>
 
-<p align='center'>
-  
+<p align='left'>
+  Find and connect with me on LinkedIn.  -->  
   <a href="https://www.linkedin.com/in/j-andressanchez/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
